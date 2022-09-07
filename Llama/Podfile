@@ -1,0 +1,22 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Llama' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Llama
+  pod 'Firebase/Core'
+  pod 'Firebase/AdMob'
+  pod 'Google-Mobile-Ads-SDK'
+
+  target 'LlamaTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'LlamaUITests' do
+    # Pods for testing
+  end
+
+end

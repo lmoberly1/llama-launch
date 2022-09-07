@@ -1,0 +1,6 @@
+framework module Pods_Llama_LlamaUITests {
+  umbrella header "Pods-Llama-LlamaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

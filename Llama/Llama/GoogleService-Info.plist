@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>144069124233-ehat9djeuncmi0mspkb38rafm0d69049.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.144069124233-ehat9djeuncmi0mspkb38rafm0d69049</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD1q8-pZuDFWbk6S27RwYeJAfVRAofL7Wo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>144069124233</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.CloudLaunch.Llama</string>
+	<key>PROJECT_ID</key>
+	<string>llamalaunch-c2083</string>
+	<key>STORAGE_BUCKET</key>
+	<string>llamalaunch-c2083.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:144069124233:ios:f6ad7b08d249c12bf2e658</string>
+	<key>DATABASE_URL</key>
+	<string>https://llamalaunch-c2083.firebaseio.com</string>
+</dict>
+</plist>
